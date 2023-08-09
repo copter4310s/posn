@@ -6,9 +6,8 @@
 ✨ พี่จะทำการอัพโหลด Code ลงใน GitHub นี้ทุกครั้งหลังจากสอนเสร็จเพื่อน้อง ๆ ได้นำมาทบทวนต่อ
 
  - Online C Compiler [Here](https://www.onlinegdb.com/online_c_compiler)
+ -  - 📗 w3schools C [Here](https://www.w3schools.com/c/index.php)
  
-
-
 ## 2️⃣ 2st Week
 
  ➡️ สัปดาห์ที่สองพี่จะเริ่มสอนภาษา C ในแบบเริ่มต้น

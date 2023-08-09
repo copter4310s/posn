@@ -10,7 +10,7 @@
 
 ## 3️⃣ 3st Week
 
- ➡️ สัปดาห์ที่สามพี่จะสอนเรื่องเงื่อนไขและให้ลองทำโจทย์เล็ก ๆ น้อย ๆ
+ ➡️ สัปดาห์ที่สามพี่จะสอนเรื่อง Loop, เงื่อนไขและให้ลองทำโจทย์เล็ก ๆ น้อย ๆ
  - Online C Compiler [Here](https://www.onlinegdb.com/online_c_compiler)
  - 📂 Folder [Here](https://github.com/copter4310s/posn/tree/main/3st)
 

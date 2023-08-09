@@ -12,8 +12,8 @@
 
  ➡️ สัปดาห์ที่สามพี่จะสอนเรื่องเงื่อนไขและให้ลองทำโจทย์เล็ก ๆ น้อย ๆ
  - Online C Compiler [Here](https://www.onlinegdb.com/online_c_compiler)
- - 📗 w3schools C [Here](https://www.w3schools.com/c/index.php)
- - 📂 Folder [Here](https://github.com/copter4310s/posn/tree/58d21b6210b71af7fbed9d8ec4de9735f29539ac/2st)
+ - 📂 Folder [Here](https://github.com/copter4310s/posn/tree/c1cd9cce786bb3276d1d6b10c6ce3a70abab75ad/3st)
+
 ![Tempterature Convert Formula](https://f.ptcdn.info/917/078/000/rkr88o28tv0Xcs4KWOkBt-o.png)
  
 ## 2️⃣ 2st Week

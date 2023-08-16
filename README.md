@@ -7,6 +7,7 @@
 
  - Online C Compiler [Here](https://www.onlinegdb.com/online_c_compiler)
  - 📗 w3schools C [Here](https://www.w3schools.com/c/index.php)
+ - 📸 รูปถ่ายเมื่อวันที่ 2566.08.10 [Here](https://photos.app.goo.gl/34Cj5yWqMt5no2Jc6)
 
 ## 4️⃣ 4th Week
 

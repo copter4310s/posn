@@ -7,7 +7,6 @@ Write your code in this editor and press "Run" button to compile and execute it.
 *******************************************************************************/
 
 #include <stdio.h>
-#include <stdbool.h>
 
 int biCount[4];
 int biInput[2];
@@ -15,7 +14,7 @@ int currentIndex = 1;
 
 int main()
 {
-    while (true) {
+    while (1 == 1) {
         printf(": ");
         //FIRST NUMBER
         if (currentIndex == 1) {

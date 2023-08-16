@@ -8,11 +8,17 @@
  - Online C Compiler [Here](https://www.onlinegdb.com/online_c_compiler)
  - 📗 w3schools C [Here](https://www.w3schools.com/c/index.php)
 
+## 4️⃣ 4th Week
+
+ ➡️ สัปดาห์ที่สี่ พี่จะเฉลยโจทย์ที่ให้น้อง ๆ ลองเขียนกันในสัปดาห์ก่อนไปและพาทำโจทย์กระบวนการคิด
+ - Online C Compiler [Here](https://www.onlinegdb.com/online_c_compiler)
+ - 📂 Folder [Here](https://github.com/copter4310s/posn/tree/main/4th)
+
 ## 3️⃣ 3rd Week
 
  ➡️ สัปดาห์ที่สามพี่จะสอนเรื่อง Loop, เงื่อนไขและให้ลองทำโจทย์เล็ก ๆ น้อย ๆ
  - Online C Compiler [Here](https://www.onlinegdb.com/online_c_compiler)
- - 📂 Folder [Here](https://github.com/copter4310s/posn/tree/main/3st)
+ - 📂 Folder [Here](https://github.com/copter4310s/posn/tree/main/3rd)
 
 ![Tempterature Convert Formula](https://f.ptcdn.info/917/078/000/rkr88o28tv0Xcs4KWOkBt-o.png)
  
@@ -21,7 +27,7 @@
  ➡️ สัปดาห์ที่สองพี่จะเริ่มสอนภาษา C ในแบบเริ่มต้น  (Variables, Input, Output)
  - Online C Compiler [Here](https://www.onlinegdb.com/online_c_compiler)
  - 📗 w3schools C [Here](https://www.w3schools.com/c/index.php)
- - 📂 Folder [Here](https://github.com/copter4310s/posn/tree/main/2st)
+ - 📂 Folder [Here](https://github.com/copter4310s/posn/tree/main/2nd)
 
 
 ## 1️⃣ 1st Week

@@ -8,7 +8,7 @@
  - Online C Compiler [Here](https://www.onlinegdb.com/online_c_compiler)
  - 📗 w3schools C [Here](https://www.w3schools.com/c/index.php)
 
-## 3️⃣ 3st Week
+## 3️⃣ 3rd Week
 
  ➡️ สัปดาห์ที่สามพี่จะสอนเรื่อง Loop, เงื่อนไขและให้ลองทำโจทย์เล็ก ๆ น้อย ๆ
  - Online C Compiler [Here](https://www.onlinegdb.com/online_c_compiler)
@@ -16,7 +16,7 @@
 
 ![Tempterature Convert Formula](https://f.ptcdn.info/917/078/000/rkr88o28tv0Xcs4KWOkBt-o.png)
  
-## 2️⃣ 2st Week
+## 2️⃣ 2nd Week
 
  ➡️ สัปดาห์ที่สองพี่จะเริ่มสอนภาษา C ในแบบเริ่มต้น  (Variables, Input, Output)
  - Online C Compiler [Here](https://www.onlinegdb.com/online_c_compiler)
